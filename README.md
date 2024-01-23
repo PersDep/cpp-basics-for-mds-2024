@@ -1,2 +1,2 @@
-# cpp-basics-for-mds-2024
+# C++: from Basics to OOP and Memory Model
 This hands-on course is intended to support C++ learning for Master of Data Science students
